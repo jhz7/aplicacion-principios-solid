@@ -1,4 +1,4 @@
-package com.ceiba.solid.entity;
+package com.ceiba.solid.infraestructura.entidad;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 
@@ -21,9 +21,7 @@ public class PagoEntity {
     private Long idEmpleado;
     private Long idProveedor;
 
-    public PagoEntity() {
-
-    }
+    public PagoEntity() {}
 
     public Long getId() {
         return id;

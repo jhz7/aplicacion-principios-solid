@@ -1,4 +1,4 @@
-package com.ceiba.solid.entity;
+package com.ceiba.solid.infraestructura.entidad;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
